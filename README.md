@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/Status-Production%20Ready-green.svg" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
 </p>
+<a href="https://analyzer01.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Try_Live_Demo-FF6B6B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+</a>
+
 
 ## 🎯 **Features**
 
@@ -478,7 +482,11 @@ This **Advanced Data Science Analysis Platform** represents a **production-ready
 - Production deployments
 
 ---
-
+<b></b>
+<a href="https://analyzer01.streamlit.app/" target="_blank">
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
+</a>
+<b></b>
 <div align="center">
 
 **🎉 Enjoy exploring your data with professional-grade tools! 🎉**
@@ -486,4 +494,4 @@ This **Advanced Data Science Analysis Platform** represents a **production-ready
 *Built with ❤️ by Aditya Mishra*
 
 </div>
-#
+
